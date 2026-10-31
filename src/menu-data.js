@@ -1,5 +1,5 @@
 /**
- * Velvet Brew Coffee Roasters & Cafe // Seasonal Menu Catalog
+ * Coffee Roasters & Cafe // Seasonal Menu Catalog
  * Signature handcrafted recipes with clear, standard English descriptions.
  */
 

@@ -1,5 +1,5 @@
 /**
- * Velvet Brew Coffee Roasters & Cafe // Optimized 60 FPS Scrollytelling Cinema Engine
+ * Coffee Roasters & Cafe // 60 FPS Scrollytelling Engine
  * Architecture: Native Hardware-Accelerated Compositor Scrolling + Passive Scroll Sync + GPU Canvas Transforms
  * Performance Bar: 0 Lag, 0 Wheel Hijacking, 0 Layout Thrashing, Instant Response
  */

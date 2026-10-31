@@ -79,7 +79,7 @@ async function runAudit() {
 
     // 3. Verify Title and Header
     const title = await page.title();
-    assert(title.includes('Velvet Brew'), 'Title must contain Velvet Brew');
+    assert(title.includes('Coffee Roasters'), 'Title must contain Coffee Roasters');
     console.log('✓ Title verified:', title);
 
     // 4. Category Filter Audit with State-Based Waiting (Zero arbitrary sleep)

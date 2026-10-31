@@ -1,5 +1,5 @@
 /**
- * Velvet Brew Coffee Roasters & Cafe // Client Application
+ * Coffee Roasters & Cafe // Client Application
  * Handles reactive menu filtering, live takeaway cart, and table reservations.
  */
 
